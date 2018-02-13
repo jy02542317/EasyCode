@@ -1,0 +1,18 @@
+c:\users\jeffery.xu\documents\visual studio 2013\Projects\EasyCodeM2G\EasyCodeM2G\bin\Debug\EasyCodeM2G.exe.config
+c:\users\jeffery.xu\documents\visual studio 2013\Projects\EasyCodeM2G\EasyCodeM2G\bin\Debug\EasyCodeM2G.exe
+c:\users\jeffery.xu\documents\visual studio 2013\Projects\EasyCodeM2G\EasyCodeM2G\bin\Debug\EasyCodeM2G.pdb
+c:\users\jeffery.xu\documents\visual studio 2013\Projects\EasyCodeM2G\EasyCodeM2G\obj\Debug\MainWindow.baml
+c:\users\jeffery.xu\documents\visual studio 2013\Projects\EasyCodeM2G\EasyCodeM2G\obj\Debug\MainWindow.g.cs
+c:\users\jeffery.xu\documents\visual studio 2013\Projects\EasyCodeM2G\EasyCodeM2G\obj\Debug\App.g.cs
+c:\users\jeffery.xu\documents\visual studio 2013\Projects\EasyCodeM2G\EasyCodeM2G\obj\Debug\EasyCodeM2G_MarkupCompile.cache
+c:\users\jeffery.xu\documents\visual studio 2013\Projects\EasyCodeM2G\EasyCodeM2G\obj\Debug\EasyCodeM2G.g.resources
+c:\users\jeffery.xu\documents\visual studio 2013\Projects\EasyCodeM2G\EasyCodeM2G\obj\Debug\EasyCodeM2G.Properties.Resources.resources
+c:\users\jeffery.xu\documents\visual studio 2013\Projects\EasyCodeM2G\EasyCodeM2G\obj\Debug\EasyCodeM2G.csproj.GenerateResource.Cache
+c:\users\jeffery.xu\documents\visual studio 2013\Projects\EasyCodeM2G\EasyCodeM2G\obj\Debug\EasyCodeM2G.exe
+c:\users\jeffery.xu\documents\visual studio 2013\Projects\EasyCodeM2G\EasyCodeM2G\obj\Debug\EasyCodeM2G.pdb
+c:\users\jeffery.xu\documents\visual studio 2013\Projects\EasyCodeM2G\EasyCodeM2G\obj\Debug\EasyCodeM2G.csprojResolveAssemblyReference.cache
+c:\users\jeffery.xu\documents\visual studio 2013\Projects\EasyCodeM2G\EasyCodeM2G\obj\Debug\SalesUser.baml
+c:\users\jeffery.xu\documents\visual studio 2013\Projects\EasyCodeM2G\EasyCodeM2G\obj\Debug\SalesUser.g.cs
+D:\GitEasyCode\EasyCode\EasyCodeM2G\bin\Debug\EasyCodeM2G.exe.config
+D:\GitEasyCode\EasyCode\EasyCodeM2G\obj\Debug\EasyCodeM2G.exe
+D:\GitEasyCode\EasyCode\EasyCodeM2G\obj\Debug\EasyCodeM2G.pdb

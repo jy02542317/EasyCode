@@ -1,0 +1,53 @@
+﻿<Window x:Class="EasyCodeM2G.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="SQL转换实体类" Height="600" Width="500" Icon="Tool.jpg" ResizeMode="NoResize">
+    <Grid>
+
+        <TabControl HorizontalAlignment="Left" Height="570" Margin="0,0,0,0" VerticalAlignment="Top" Width="490">
+            <TabItem Header="SQL转换常规实体类">
+                <Grid Margin="0,0,0,-16" >
+                    <RichTextBox HorizontalAlignment="Left" Height="160" Margin="30,20,0,0"    Name="TbxSql" VerticalAlignment="Top"  Width="420"/>
+                    <Button Content="转换" HorizontalAlignment="Left" Margin="190,195,0,0" VerticalAlignment="Top" Width="100" Click="Button_Click"/>
+                    <RichTextBox HorizontalAlignment="Left" Height="270" Margin="30,233,0,0" Name="Rtbx" VerticalAlignment="Top" Width="420" IsReadOnly="True">
+
+                    </RichTextBox>
+                </Grid>
+            </TabItem>
+            <TabItem Header="SQL转换实体M2G">
+                <Grid Margin="0,0,0,-16" >
+                    <RichTextBox HorizontalAlignment="Left" Height="97" Margin="30,20,0,0"    Name="TbxSqlM2GOld" VerticalAlignment="Top"  Width="420"/>
+                    <Button Content="转换" HorizontalAlignment="Left" Margin="190,195,0,0" VerticalAlignment="Top" Width="100" Click="M2GButton_Click"/>
+                    <RichTextBox HorizontalAlignment="Left" Height="270" Margin="30,233,0,0" Name="RtbxM2GOld" VerticalAlignment="Top" Width="420" IsReadOnly="True">
+                    </RichTextBox>
+                    <TextBox HorizontalAlignment="Left" Height="23" Margin="180,140,0,0" TextWrapping="Wrap" Text="" Name="tbxM2GClassName" VerticalAlignment="Top" Width="120"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="设置">
+                <Grid>
+                    <TextBox Height="23" TextWrapping="Wrap" Width="150" Name="TBXIP" Margin="170,60,106,456"/>
+                    <TextBox Height="23" TextWrapping="Wrap" Width="150" Name="TBXDB" Margin="170,161,106,354"/>
+                    <TextBox Height="23" TextWrapping="Wrap" Width="150" Name="TBXDBUS" Margin="170,260,106,255" />
+                    <TextBox Height="23" TextWrapping="Wrap" Width="150" Name="TBXDBPD" Margin="197,359,133,156" />
+                    <Label Content="IP：" HorizontalAlignment="Left" Margin="100,58,0,0" VerticalAlignment="Top" />
+                    <Label Content="数据库" HorizontalAlignment="Left" Margin="100,158,0,0" VerticalAlignment="Top"/>
+                    <Label Content="用户名" HorizontalAlignment="Left" Margin="99,256,0,0" VerticalAlignment="Top"/>
+                    <Label Content="密码" HorizontalAlignment="Left" Margin="99,356,0,0" VerticalAlignment="Top"/>
+                    <Button Content="测试连接" HorizontalAlignment="Left" Margin="136,426,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_1"/>
+                    <Button Content="设置" HorizontalAlignment="Left" Margin="293,426,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_2"/>
+
+                </Grid>
+            </TabItem>
+            <TabItem Header="维护内容" HorizontalAlignment="Left" Height="20" VerticalAlignment="Top" Width="61">
+                <Grid>
+                    <Button Content="备份机会表" HorizontalAlignment="Left" Margin="40,40,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_3"/>
+                    <Button Content="备份Base表" HorizontalAlignment="Left" Margin="160,40,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_4"/>
+                    <Button Content="数据移动" HorizontalAlignment="Left" Margin="280,40,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_5"/>
+                    <Button Content="销售人员维护" HorizontalAlignment="Left" Margin="40,100,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_6"/>
+                </Grid>
+            </TabItem>
+
+        </TabControl>
+    </Grid>
+</Window>
+

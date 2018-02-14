@@ -105,7 +105,10 @@ namespace EasyCodeM2G
             return result;
         }
 
+        public void TestNew()
+        {
 
+        }
 
     }
 }
